@@ -27,6 +27,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
 // Setting constants
+echo 'test';
 define('EM_VERSION', 5.61); //self expanatory
 define('EM_PRO_MIN_VERSION', 2.392); //self expanatory
 define('EM_PRO_MIN_VERSION_CRITICAL', 2.377); //self expanatory
